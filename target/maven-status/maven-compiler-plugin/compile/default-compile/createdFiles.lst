@@ -1,0 +1,10 @@
+org/spring/cassandra/example/config/AppConfig.class
+org/spring/cassandra/example/custom/CustomRepositoryImpl.class
+org/spring/cassandra/example/dto/Person.class
+org/spring/cassandra/example/repository/PersonRepository.class
+org/spring/cassandra/example/config/CassandraConfig.class
+org/spring/cassandra/example/controller/GreetingController.class
+org/spring/cassandra/example/service/MyService.class
+org/spring/cassandra/example/App.class
+Test.class
+org/spring/cassandra/example/custom/CustomRepository.class
